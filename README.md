@@ -5,12 +5,13 @@ Criar uma Lista de afazeres usando HTML, CSS e JavaScript.
 
 Etapa 1:
 
-Colocar Input de Texto e Botão para adicionar as tarefas;
-Criar as funções em JavaScript para adicionar as tarefas;
-As Tarefas adicionas devará ser Inputs do tipo checkbox;
-Colocar botões de Excluir e Editar nas tarefas;
+- [ ] Colocar Input de Texto, Botão para adicionar e Limpar as tarefas;
+- [ ] Colocar botões de Excluir e Editar nas tarefas;
+- [ ] As Tarefas adicionas devará ser Inputs do tipo checkbox;
+- [ ] Adicionar Footer com as suas informações de contato;
 
 Etapa 2: 
 
-6. Criar as funções dos botões; 
-7. Salvar as tarefas no LocalStorege;
+- [ ] Criar as funções (JavaScript) dos botões; 
+- [ ] Salvar as tarefas no LocalStorege;
+- [ ] Colocar estilo (CSS) na sua página;
